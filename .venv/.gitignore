@@ -1,11 +1,11 @@
-# Entornos virtuales
+# Entornos virtuales (tanto venv como .venv)
 venv/
-env/
+.venv/
 
-# Archivos de PyCharm
+# Archivos de configuración de PyCharm
 .idea/
 
-# Archivos compilados de Python
+# Archivos de caché de Python
 __pycache__/
 *.pyc
 
